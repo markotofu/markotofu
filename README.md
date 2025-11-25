@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markotofu&label=Profile%20views&color=0e75b6&style=flat" alt="markotofu" /> </p>
 
+- Bio : Ateneo de Davao University 3rd year Computer Science. 21 Years old
+
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Unity, Machine Learning, Game Dev, Motion Graphics**
 
-- ⚡ Fun fact **i'm 21**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
