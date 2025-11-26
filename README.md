@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markotofu&label=Profile%20views&color=0e75b6&style=flat" alt="markotofu" /> </p>
 
-Ateneo de Davao University Student 
-3rd year Computer Science
-21 Years old
+Ateneo de Davao University Student  </n>
+3rd year Computer Science</n>
+21 Years old</n>
 
 - 🔭 I’m currently working on **my portfolio**
 
