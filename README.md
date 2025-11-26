@@ -1,13 +1,15 @@
-<h1 align="center">Hello bigbosses, I'm markotofu</h1>
+<h1 align="center">Markotofu github page</h1>
 <h3 align="center">Coder and Motion Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markotofu&label=Profile%20views&color=0e75b6&style=flat" alt="markotofu" /> </p>
 
-- Bio : Ateneo de Davao University 3rd year Computer Science. 21 Years old
+Ateneo de Davao University Student 
+3rd year Computer Science
+21 Years old
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Unity, Machine Learning, Game Dev, Motion Graphics**
+- 🌱 I’m currently learning **ThreeJS, Motion Graphics**
 
 
 <h3 align="left">Connect with me:</h3>
